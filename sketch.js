@@ -413,3 +413,4 @@ function drawUI(nearCrosswalk) {
   textSize(22);
   text("デス数: " + deathCount, 25, 575);
 }
+
